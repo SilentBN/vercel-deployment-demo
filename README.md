@@ -14,16 +14,16 @@ Think about which project you are most proud of up to this point that you have b
 
 ## Instructions
 ### Task 1: Project Set Up
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] Use create react app to build a new project.
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] Use create react app to build a new project.
 
 ### Task 2: Project Requirements
 #### Build your DOM
-* [ ] CD inside of created source
-* [ ] Rebuild a static (non-api accessing) project here based on a previous assignment.
-* [ ] Deploy to vercel.
-* [ ] ***Make sure that your vercel project correctly points to the root folder of your project.***
+* [x] CD inside of created source
+* [x] Rebuild a static (non-api accessing) project here based on a previous assignment.
+* [x] Deploy to vercel.
+* [x] ***Make sure that your vercel project correctly points to the root folder of your project.***
 
 ### Submission Format
-- [ ] For this project, submit the link to your vercel hosted website.
+- [x] For this project, submit the link to your vercel hosted website.
